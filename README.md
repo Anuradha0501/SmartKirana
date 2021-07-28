@@ -1,3 +1,8 @@
+# How To Contribute
+Step 1 Goto to src folder.</br>
+Step 2 Open Screens Folder, there you can find all the pages which are going to be used in this website.</br>
+Step 3 Contribute your pages.</br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
